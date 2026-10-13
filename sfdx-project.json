@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "competitor-intel-lwc",
+  "namespace": "",
+  "sourceApiVersion": "64.0"
+}
